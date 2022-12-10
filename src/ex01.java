@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+//Objetivo: Mostre a área de um quadrado
+/*Neste caso eu usei a classe Scanner para input,
+ para saber mais acesse a devmedia, tem um conteúdo
+ muito bom
+ */
 public class ex01 {
     public static void main(String[] args){
         int area;
@@ -8,7 +12,9 @@ public class ex01 {
         Scanner lado1 = new Scanner(System.in);
         lado = lado1.nextInt();
         area = lado*lado;
-        System.out.println(area);
+        System.out.println("A area do quadrado equivale a: " + area);
+        lado1.close();
+        
 
 
     }
