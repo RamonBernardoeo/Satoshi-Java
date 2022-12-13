@@ -26,7 +26,7 @@ public class ex16 {
 
 
         salBruto = valorHora*horasTrabalhadas;
-        salLiquido = (salBruto - (desconto/100) + (descendentes*100));
+        salLiquido = (salBruto - (desconto/100)) + (descendentes*100);
         
         System.out.println("O salário Bruto é de: " + salBruto);
         System.out.println("O salario liquido será de: " + salLiquido);
