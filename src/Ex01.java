@@ -4,7 +4,7 @@ import java.util.Scanner;
  para saber mais acesse a devmedia, tem um conteúdo
  muito bom
  */
-public class ex01 {
+public class Ex01 {
     public static void main(String[] args){
         int area;
         int lado;
