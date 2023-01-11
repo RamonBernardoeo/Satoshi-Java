@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //16.	Receba a quantidade de horas trabalhadas, o valor por hora, o percentual de desconto e o número de descendentes. Calcule o salário que serão as horas trabalhadas x o valor por hora. Calcule o salário líquido (= Salário Bruto – desconto). A cada dependente será acrescido R$ 100 no Salário Líquido. Exiba o salário a receber.
 
-public class ex16 {
+public class Ex16 {
     public static void main(String[] args) {
         double valorHora, salLiquido, salBruto,desconto;
         int horasTrabalhadas,descendentes;
