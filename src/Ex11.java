@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Receba o raio de uma circunferência. Calcule e mostre o comprimento da circuferência
 
-public class ex11 {
+public class Ex11 {
     public static void main(String[] args) {
         double raio, comprimento;
 
