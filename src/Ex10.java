@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Receba dois numeros reais. Calcule e mostre a difereça desses valores.
 
-public class ex10 {
+public class Ex10 {
  public static void main(String[] args) {
      double a,b, diferenca;
     
