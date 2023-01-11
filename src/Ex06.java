@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Receba os valores em x e y. Efetua a troca de seus valores e mostre seus conteúdos.
-public class ex06 {
+public class Ex06 {
     public static void main(String[] args) {
         int x,y;
         int z = 0;
