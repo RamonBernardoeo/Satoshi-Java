@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //Receba o ano de nascimento e o ano atual. Calcule e mostre a sua idade atual e quantos anos terá daqui a 17 anos
 
-public class ex12 {
+public class Ex12 {
 
     public static void main(String[] args) {
         int anoAtual, anoNasc, idadeAtual,idadeFutura;
