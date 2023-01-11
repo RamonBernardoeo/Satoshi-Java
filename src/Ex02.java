@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Objetivo: Receba o salário de um funcionário e mostre o novo salário com reajuste de 15%
-public class ex02{
+public class Ex02{
 public static void main(String[] args) {
     double salInciail;
     double reajuste;
