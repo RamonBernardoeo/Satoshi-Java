@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Receba os valores do comprimento, largura e altura de um paralelepípedo. Calcule e mostre seu volume.
 
-public class ex07 {
+public class Ex07 {
     public static void main(String[] args) {
         double altura,largura,comprimento;
         double volume;
