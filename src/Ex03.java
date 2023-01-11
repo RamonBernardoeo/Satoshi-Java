@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Receba a base e a altura de um triângulo. Calcule e mostre a sua área
 
-public class ex03{
+public class Ex03{
     public static void main(String[] args) {
         double area, base, altura;
         System.out.println("Digite a altura do triangulo: ");
